@@ -1,7 +1,7 @@
-# SSH Login Automation for Matrix Server
+# SSH Login Automation for Seneca Matrix Server
 
 ## Description
-The provided scripts automate the process of logging into a server (Matrix) via SSH using stored credentials. This automation simplifies the login process, enhancing user convenience and efficiency. The scripts are designed to read the username and password from a hidden credentials file and prompt the user for confirmation before initiating the SSH login process.
+The provided scripts automate the process of logging into the Seneca (Matrix) server via SSH using stored credentials. This automation simplifies the login process, enhancing user convenience and efficiency. The scripts are designed to read the username and password from a hidden credentials file and prompt the user for confirmation before initiating the SSH login process.
 
 ## Script Files
 
